@@ -1,3 +1,10 @@
+This project used bria.ai [https://bria.ai/] <br />
+TanStack Start [https://tanstack.com/] <br />
+Supabse [https://supabase.com/] <br />
+ShadCn [https://ui.shadcn.com/] <br />
+ShadCn.io [https://www.shadcn.io/] <br />
+Nitro [https://v3.nitro.build/]
+
 Welcome to your new TanStack app! 
 
 # Getting Started
